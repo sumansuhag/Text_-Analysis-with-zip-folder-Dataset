@@ -1,0 +1,80 @@
+File Analysis Report
+==================================================
+Name: Objective.docx
+Size: 12932 bytes
+Creation Time: 2025-01-07 11:13:26.819754
+Modification Time: 2025-01-07 11:13:26.819754
+MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+--------------------------------------------------
+Name: Output Data Structure.xlsx
+Size: 62140 bytes
+Creation Time: 2025-01-07 11:13:26.817754
+Modification Time: 2025-01-07 11:13:26.817754
+MIME Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+--------------------------------------------------
+Name: Input.xlsx
+Size: 60288 bytes
+Creation Time: 2025-01-07 11:13:26.818754
+Modification Time: 2025-01-07 11:13:26.818754
+MIME Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+--------------------------------------------------
+Name: Text Analysis.docx
+Size: 14551 bytes
+Creation Time: 2025-01-07 11:13:26.820754
+Modification Time: 2025-01-07 11:13:26.820754
+MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+--------------------------------------------------
+Name: StopWords_Geographic.txt
+Size: 1821 bytes
+Creation Time: 2025-01-07 11:13:26.821754
+Modification Time: 2025-01-07 11:13:26.821754
+MIME Type: text/plain
+--------------------------------------------------
+Name: StopWords_Auditor.txt
+Size: 88 bytes
+Creation Time: 2025-01-07 11:13:26.821754
+Modification Time: 2025-01-07 11:13:26.821754
+MIME Type: text/plain
+--------------------------------------------------
+Name: StopWords_Names.txt
+Size: 106640 bytes
+Creation Time: 2025-01-07 11:13:26.820754
+Modification Time: 2025-01-07 11:13:26.820754
+MIME Type: text/plain
+--------------------------------------------------
+Name: StopWords_Currencies.txt
+Size: 1757 bytes
+Creation Time: 2025-01-07 11:13:26.818754
+Modification Time: 2025-01-07 11:13:26.818754
+MIME Type: text/plain
+--------------------------------------------------
+Name: StopWords_DatesandNumbers.txt
+Size: 832 bytes
+Creation Time: 2025-01-07 11:13:26.818754
+Modification Time: 2025-01-07 11:13:26.818754
+MIME Type: text/plain
+--------------------------------------------------
+Name: StopWords_Generic.txt
+Size: 722 bytes
+Creation Time: 2025-01-07 11:13:26.819754
+Modification Time: 2025-01-07 11:13:26.819754
+MIME Type: text/plain
+--------------------------------------------------
+Name: StopWords_GenericLong.txt
+Size: 4158 bytes
+Creation Time: 2025-01-07 11:13:26.821754
+Modification Time: 2025-01-07 11:13:26.821754
+MIME Type: text/plain
+--------------------------------------------------
+Name: positive-words.txt
+Size: 19093 bytes
+Creation Time: 2025-01-07 11:13:26.820754
+Modification Time: 2025-01-07 11:13:26.820754
+MIME Type: text/plain
+--------------------------------------------------
+Name: negative-words.txt
+Size: 44758 bytes
+Creation Time: 2025-01-07 11:13:26.817754
+Modification Time: 2025-01-07 11:13:26.817754
+MIME Type: text/plain
+--------------------------------------------------
