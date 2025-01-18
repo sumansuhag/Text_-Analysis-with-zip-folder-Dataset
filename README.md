@@ -22,11 +22,8 @@ summary.txt	Text	100	A brief text file summarizing the contents of the dataset a
 
 image_overview.png	PNG	250	An overview image that visually represents the data analysis process and key outcomes.
 
-readme.md	Markdown	50	A README file providing instructions on how to use the dataset, including software requirements and data descriptions.
-
 Notes:
 Most Recent Modification: assignment_report.pdf modified on 2023-10-30.
-Largest File: presentation.pptx (5,000 KB).
 Security Note: The ZIP folder contains no executable files, reducing security risks.
 
 /extracted_files ├── /images │ ├── image1.jpg │ ├── image2.jpg ├── /documents │ ├── report.pdf │ ├── presentation.pptx
