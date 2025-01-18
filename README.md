@@ -8,9 +8,9 @@ DATASET:
 ZIP File: 20211030 Test Assignment-20250107T053720Z-001.zip
 Total Number of Files: 8
 File Name	File Type	Size 
-assignment_report.pdf	PDF	1,200	A comprehensive report summarizing the findings of the test assignment. It includes analysis, conclusions, and recommendations.
+assignment_report.pdf	PDF	A comprehensive report summarizing the findings of the test assignment. It includes analysis, conclusions, and recommendations.
 
-data_analysis.xlsx	Excel	2,500	An Excel file containing raw data and analysis results, including charts and pivot tables for visual representation of the data.
+data_analysis.xlsx	Excel	An Excel file containing raw data and analysis results, including charts and pivot tables for visual representation of the data.
 
 customer_data.csv	CSV	500	A CSV file with customer demographics and purchase history, useful for understanding customer behavior.
 
